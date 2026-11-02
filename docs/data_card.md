@@ -12,4 +12,6 @@ Raw files are not in this repository. Put them in `data/raw/` with these names.
 Known issues: the scam comments are survivors of YouTube's own filtering; the toxicity set covers few videos; the
 sentiment set has 526 repeated texts; label guidelines for the two labelled sets were not available to me.
 
-Source, licence and terms-of-use for each file still need to be confirmed and recorded here before any public release.
+**Licence and attribution:** the owner of this project states the data is licensed CC BY-SA 4.0. The source page, author
+and any extra terms for each of the four files are not recorded here yet and still need to be added. Do not republish the
+raw files, or tables derived from them, without the same licence and credit to the original authors.
